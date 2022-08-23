@@ -9,3 +9,34 @@ body {
   margin:  5%;
   color: #FEF2BF;
 }
+
+.container {
+    display: block;
+    width: 50%;
+    margin: auto;
+}
+
+.btn {
+    margin: 25px;
+    display: inline-block;
+    height: 200px;
+    width: 200px;
+    border: 10px solid black;
+    border-radius: 20%;
+  }
+
+  .red-box {
+    background-color: red;
+  }
+
+  .green-box {
+       background-color: rgb(4, 161, 4);
+  }
+
+  .blue-box {
+    background-color: blue;
+  }
+
+  .yellow-box {
+    background-color: yellow;
+  }
