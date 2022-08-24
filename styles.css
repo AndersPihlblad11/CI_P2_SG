@@ -3,7 +3,7 @@ body {
     background-color: #011f3f;
 }
 
-.title {
+#title {
   font-family: 'Press Start 2P', cursive;
   font-size: 3rem;
   margin:  5%;
@@ -24,6 +24,11 @@ body {
     border: 10px solid black;
     border-radius: 20%;
   }
+  
+  .game-over {
+    background-color: red;
+    opacity: 0.8;
+  }
 
   .red {
     background-color: red;
@@ -39,4 +44,9 @@ body {
 
   .yellow {
     background-color: yellow;
+  }
+
+  .pressed {
+    box-shadow: 0 0 20px white;
+    background-color: grey;
   }
