@@ -4,7 +4,7 @@ body {
 }
 
 .title {
-    font-family: 'Press Start 2P', cursive;
+  font-family: 'Press Start 2P', cursive;
   font-size: 3rem;
   margin:  5%;
   color: #FEF2BF;
@@ -25,18 +25,18 @@ body {
     border-radius: 20%;
   }
 
-  .red-box {
+  .red {
     background-color: red;
   }
 
-  .green-box {
+  .green {
        background-color: rgb(4, 161, 4);
   }
 
-  .blue-box {
+  .blue {
     background-color: blue;
   }
 
-  .yellow-box {
+  .yellow {
     background-color: yellow;
   }
