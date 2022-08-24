@@ -1,8 +1,9 @@
 body {
     text-align: center;
     background-color: #011f3f;
+    font-family:'Courier New', Courier, monospace;
 }
-
+/* game.html code*/
 #level-title, h1{
   font-family: 'Press Start 2P', cursive;
   font-size: 3rem;
@@ -27,56 +28,56 @@ body {
     width: 200px;
     border: 10px solid black;
     border-radius: 20%;
-  }
+}
   
-  .game-over {
+.game-over {
     background-color: red;
     opacity: 0.8;
-  }
+ }
 
-  .red {
+.red {
     background-color: red;
-  }
+}
 
-  .green {
+.green {
        background-color: rgb(4, 161, 4);
-  }
+}
 
-  .blue {
+.blue {
     background-color: blue;
-  }
+}
 
-  .yellow {
+.yellow {
     background-color: yellow;
-  }
+}
 
-  .pressed {
+.pressed {
     box-shadow: 0 0 20px white;
     background-color: grey;
-  }
+}
 
-  #how-to-heading {
+#how-to-heading {
     font-family: 'Press Start 2P', cursive;
   font-size: 2rem;
   margin:  5%;
   color: #FEF2BF;
-  }
+}
 
-  .info {
+.info {
     text-align: left;
     font-size: 3rem;
     color: #FEF2BF;
     font-family:'Courier New', Courier, monospace;
-  }
+}
 
-  h2 {
-    font-family: 'Press Start 2P', cursive;
-  font-size: 2rem;
-  margin:  5%;
-  color: #FEF2BF;
-  text-align: center;
-  }
-
+h2 {
+   font-family: 'Press Start 2P', cursive;
+   font-size: 2rem;
+   margin:  5%;
+   color: #FEF2BF;
+   text-align: center;
+}
+/* index.html code */
 button {
     width: 20%;
     padding: 8px 0;
@@ -109,4 +110,5 @@ footer {
   text-align: center;
   margin-top: 5%;
   color: #FEF2BF;
+
 }
