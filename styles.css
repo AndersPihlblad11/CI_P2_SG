@@ -104,3 +104,9 @@ button {
   color: #000;
   font-family:'Courier New', Courier, monospace;
 }
+
+footer {
+  text-align: center;
+  margin-top: 5%;
+  color: #FEF2BF;
+}
