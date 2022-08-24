@@ -57,3 +57,10 @@ body {
   margin:  5%;
   color: #FEF2BF;
   }
+
+  .info {
+    text-align: left;
+    font-size: 3rem;
+    color: #FEF2BF;
+    font-family:'Courier New', Courier, monospace;
+  }
