@@ -19,10 +19,8 @@ The website is based off the popular game called simon game which challenges the
     3. [User Stories](#user-stories)
 3. [Design](#design)
     1. [Design Choices](#design-choices)
-    2. [Colour](#colours)
-    3. [Fonts](#fonts)
-    4. [Structure](#structure)
-    5. [Wireframes](#wireframes)
+    2. [Fonts](#fonts)
+    3. [Wireframes](#wireframes)
 4. [Technologies Used](#technologies-used)
     1. [Languages](#languages)
     2. [Frameworks & Tools](#frameworks-&-tools)
@@ -72,8 +70,29 @@ The website is based off the popular game called simon game which challenges the
 
 ### Design Choices
 The webpage was designed to have a simplistic retro gaming experience.
+<details><summary>First Page</summary>
+<img src="docs/pages/first_page.png">
+</details>
+<details><summary>Game Page 1</summary>
+<img src="docs/pages/second_page1.png">
+</details>
+<details><summary>Game Page 2</summary>
+<img src="docs/pages/second_page2.png">
+</details>
+<details><summary>Game Page 3</summary>
+<img src="docs/pages/second_page3.png">
+</details>
 
 ### Fonts
 The fonts I used were Courier New for the body and Press Start 2P for headings. I used Google fonts to extract both.
+
+### Wireframes
+<details><summary>First Page Wireframe</summary>
+<img src="docs/wireframes/start_page.png">
+</details>
+<details><summary>Second Page Wireframe</summary>
+<img src="docs/wireframes/game_page.png">
+</details>
+
 
 
