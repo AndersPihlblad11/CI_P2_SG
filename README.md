@@ -68,4 +68,12 @@ The website is based off the popular game called simon game which challenges the
 6. As the site owner, I want to keep the user engaged.
 7. As the site owner, I want users to enjoy the site.
 
+## Design
+
+### Design Choices
+The webpage was designed to have a simplistic retro gaming experience.
+
+### Fonts
+The fonts I used were Courier New for the body and Press Start 2P for headings. I used Google fonts to extract both.
+
 
