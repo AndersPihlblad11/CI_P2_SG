@@ -140,5 +140,17 @@ web.dev was used to test the performance of the website.
 <img src="docs/performance/performance.png">
 </details>
 
+### Performing tests on various devices 
+The website was tested on the following devices:
+- lenovo laptop
+- iphone 13
+- iphone 5
+
+### References
+- udemy previous coarse I have taken.
+- Stack over flow
+- W3 schools
+- My good friend Daniel.
+
 
 

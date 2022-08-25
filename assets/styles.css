@@ -70,7 +70,7 @@ body {
     font-family:'Courier New', Courier, monospace;
 }
 
-h2 {
+h2, h3{
    font-family: 'Press Start 2P', cursive;
    font-size: 2rem;
    margin:  5%;
@@ -112,3 +112,4 @@ footer {
   color: #FEF2BF;
 
 }
+
