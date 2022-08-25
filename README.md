@@ -6,7 +6,7 @@
 [Live webpage](https://anderspihlblad11.github.io/CI_P2_SG/)
 
 ## intro
-The website is based off the popular game called simon game which challenges the players memory skills with sequences that have to be copied to get to the next stage. its great for memory training and a laugh with friends and family.
+The website is based off the popular game called simon game which challenges the players memory skills with sequences that have to be copied to get to the next stage. Its great for memory training and a laugh with friends and family. 
 
 ## Table of Content
 
@@ -32,4 +32,18 @@ The website is based off the popular game called simon game which challenges the
     3. [Performance](#performance)
     4. [Device testing](#performing-tests-on-various-devices)
 5. [References](#references)
+
+## Project Goals 
+
+### User Goals
+- Good for training memory.
+- A good social game to play with friends and family.
+- Smooth game play.
+
+### Site Owner Goals
+- Have eye catching colours.
+- A smooth flow.
+- A fun interactive experience for the users.
+
+
 
