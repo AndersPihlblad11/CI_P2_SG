@@ -1,7 +1,7 @@
-let buttonColours= ["red", "blue", "green", "yellow"];
+var buttonColours= ["red", "blue", "green", "yellow"];
 
-let gamePattern= [];
-let userClickedPattern = [];
+var gamePattern= [];
+var userClickedPattern = [];
 
 var started = false;
 var level = 0;
@@ -16,7 +16,7 @@ $(document).keypress(function() {
 
 $(".btn").click(function() {
  
-    let userChosenColour = $(this).attr("id");
+    var userChosenColour = $(this).attr("id");
     userClickedPattern.push(userChosenColour);
 
     animatePress(userChosenColour);
