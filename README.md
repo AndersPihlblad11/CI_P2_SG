@@ -45,5 +45,18 @@ The website is based off the popular game called simon game which challenges the
 - A smooth flow.
 - A fun interactive experience for the users.
 
+## User Experience
+
+### Target Audience
+- People looking for a challenge.
+- Children.
+- People at gatherings with friends or family"
+
+### User Requirements and Expectations
+
+- Flowing and easy to understand layout.
+- Good presentation and visually appealing regardless of screen size.
+- Detailed description of how to play.
+
 
 
