@@ -137,7 +137,7 @@ The Extends Class Validation Service was used to validate the JavaScript of the 
 web.dev was used to test the performance of the website. 
 
 <details><summary>Whole page</summary>
-<img src="docs/wireframes/performance/performance.png">
+<img src="docs/performance/performance.png">
 </details>
 
 
