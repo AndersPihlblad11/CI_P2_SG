@@ -94,5 +94,23 @@ The fonts I used were Courier New for the body and Press Start 2P for headings. 
 <img src="docs/wireframes/game_page.png">
 </details>
 
+## Technologies Used
+
+### Languages
+- HTML
+- CSS
+- java Script
+- JQuery
+
+### Frameworks & Tools
+- Git
+- GitHub
+- Gitpod
+- Color Hunt
+- Balsamiq
+- Google Fonts
+- VS code
+- Font Awsome
+
 
 
