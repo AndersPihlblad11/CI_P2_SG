@@ -12,18 +12,18 @@ $(document).keypress(function() {
       nextSequence();
       started = true;
     }
-  });
+});
 
 $(".btn").click(function() {
  
     let userChosenColour = $(this).attr("id");
     userClickedPattern.push(userChosenColour);
-    
+
     animatePress(userChosenColour);
 
     checkAnswer(userClickedPattern.length-1);
   
-  });
+});
 
 function checkAnswer(currentLevel) {
 
@@ -59,7 +59,7 @@ function nextSequence() {
 function animatePress(currentColour) { 
     $("#" + currentColour).addClass("pressed");
     setTimeout(function () {
-        $("#" + currentColour).removeClass("pressed");
+    $("#" + currentColour).removeClass("pressed");
       }, 100);
 }
 
@@ -67,5 +67,5 @@ function startOver() {
     level = 0;
     gamePattern = [];
     started = false;
-  }
+}
 
