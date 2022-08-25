@@ -112,5 +112,33 @@ The fonts I used were Courier New for the body and Press Start 2P for headings. 
 - VS code
 - Font Awsome
 
+## Validation
+
+### HTML Validation
+The Nu html checker Service was used to validate the HTML of the website. 
+
+<details><summary>HTML</summary>
+<img src="docs/validations/html_validation.png">
+</details>
+
+### CSS Validation
+The W3C Jigsaw CSS Validation Service was used to validate the CSS of the website.
+<details><summary>style.css</summary>
+<img src="docs/validations/css_validation.png">
+</details>
+
+### JaveScript Validation
+The Extends Class Validation Service was used to validate the JavaScript of the website.
+<details><summary>index.js</summary>
+<img src="docs/validations/java_validation.png">
+</details>
+
+### Performance 
+web.dev was used to test the performance of the website. 
+
+<details><summary>Whole page</summary>
+<img src="docs/wireframes/performance/performance.png">
+</details>
+
 
 
