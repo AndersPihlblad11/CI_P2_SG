@@ -50,7 +50,7 @@ The website is based off the popular game called simon game which challenges the
 ### Target Audience
 - People looking for a challenge.
 - Children.
-- People at gatherings with friends or family"
+- People at gatherings with friends or family.
 
 ### User Requirements and Expectations
 
@@ -58,5 +58,14 @@ The website is based off the popular game called simon game which challenges the
 - Good presentation and visually appealing regardless of screen size.
 - Detailed description of how to play.
 
+### User Stories
+1. As a user, I want to know what to expect.
+2. As a user, I want to know how to play.
+3. As a user, I want range regarding the levels.
+4. As a user, I want a challenge.
+
+#### Site Owner 
+6. As the site owner, I want to keep the user engaged.
+7. As the site owner, I want users to enjoy the site.
 
 
